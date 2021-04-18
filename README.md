@@ -1,0 +1,1 @@
+i am dumb so i decided to learn through odin
